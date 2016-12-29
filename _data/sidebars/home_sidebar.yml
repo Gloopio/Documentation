@@ -5,18 +5,18 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Platforms
     output: web
     folderitems:
     - title: News
       url: /news.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Android
+      url: /android_landing_page.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: iOS
+      url: /ios_landing_page.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Server
+      url: /server_landing_page.html
       output: web
