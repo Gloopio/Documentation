@@ -78,7 +78,6 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
 - android_sidebar
 - ios_sidebar
 - server_sidebar
