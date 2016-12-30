@@ -3,18 +3,11 @@
 topnav:
 - title: Topnav
   items:
-    - title: Development News
+    - title: Android
+      url: /android_landing_page.html
+    - title: iOS
+      url: /ios_landing_page.html
+    - title: Server
+      url: /server_landing_page.html
+    - title: News
       url: /news
-
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Platforms
-      folderitems:
-        - title: Android
-          url: /android_landing_page.html
-        - title: iOS
-          url: /ios_landing_page.html
-        - title: Server
-          url: /server_landing_page.html

@@ -145,6 +145,3 @@ DEPENDENCIES
   github-pages (~> 106)
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
-
-BUNDLED WITH
-   1.13.6

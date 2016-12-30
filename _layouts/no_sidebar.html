@@ -53,26 +53,20 @@
     {% endif %}
 
 </head>
-<body style="background-color: white;">
+<body>
 {% include topnav.html %}
 <!-- Page Content -->
-<div style="background-color: white; width:100%;">
-<div class="container" style="background-color: white;">
+<div class="container">
     <div class="col-lg-12">&nbsp;</div>
     <!-- Content Row -->
-    <div class="row" style="background-color: white;">
-        <!-- Sidebar Column -->
-        <div class="col-md-3" style="background-color: white;">
-
-          {% include sidebar.html %}
+    <div class="row">
     <!-- Content Column -->
-    <div class="col-md-9" style="background-color: white;">
+    <div class="col-md-12">
         {{content}}
     </div>
     <!-- /.row -->
 </div>
 <!-- /.container -->
-</div>
     </div>
 
 </body>
