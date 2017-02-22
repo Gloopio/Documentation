@@ -5,15 +5,22 @@ entries:
   product: Android
   folders:
 
-  - title: Overview
+  - title: Get started
+    url: /android_getting_started.html
+    output: web
+
+  - title: Objects
     output: web
     folderitems:
 
-    - title: Get started
-      url: /index.html
+    - title: Gloop Objects
+      url: /android_gloop_objects.html
       output: web
-      type: homepage
 
-    - title: Introduction
-      url: /android_sample1.html
+    - title: Saving
+      url: /android_saving.html
+      output: web
+
+    - title: Relational Data
+      url: /android_relational_data.html
       output: web
